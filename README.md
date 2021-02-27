@@ -9,6 +9,9 @@ will respond with suitable restaurant suggestions based on their preferences.
 
 
    **DETAILS OF SOFTWARE:**
+
 • Microsoft Visual code
+
 • windows 10 os
+
 ● Rasa NLU and Core
